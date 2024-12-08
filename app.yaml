@@ -1,0 +1,2 @@
+runtime: python312
+entrypoint: guicorn -b :$PORT main:app
