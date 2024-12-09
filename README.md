@@ -65,8 +65,7 @@ Corpo do json:
 {
   "nome": "Galaxy S24",
   "valor": 4000.0,
-  "eletronico": true,
-  "data_criacao": "2024-12-07T10:00:00"
+  "eletronico": true
 }
 ```
 
